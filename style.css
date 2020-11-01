@@ -8,7 +8,6 @@ body {
     margin: 0;
     min-height: 100vh;
     font-family: 'Libre Baskerville', serif;
-    background-color: #302915;
 } 
 
 .title {
@@ -19,7 +18,7 @@ ul {
     list-style-type: none;
     text-align: center;
     margin: 0;
-    padding-bottom: 7px;
+    padding-bottom: 20px;
   }
   
   li { 
@@ -28,10 +27,11 @@ ul {
   }
 
   .containter {
-    padding: 5px;
+    color: white;
+    padding: 2px;
 	display: flex;
     flex-wrap: wrap;
-    background-color: #69614C;
+    background-color: #070d59;
     justify-content: center;
     width: 99%;
 }
